@@ -1,0 +1,2 @@
+#Organizar las casas de un barrio de acuerdo a su dirección doble que se basa en el número de manzana y número de casa respectivamente, en donde se tienen los datos de la ultima lectura del contador de energía eléctrica. Diseñar un programa que permita capturar el número de manzana, número de casa y lectura anual del contador, determinar el consumo del período y generar la factura correspondiente, en un archivo de texto con su respectiva visualización, teniendo en cuenta que cada kW tiene un costo de $50.
+
